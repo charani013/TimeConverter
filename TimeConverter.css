@@ -1,0 +1,52 @@
+.bg-image {
+  background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+  height: 200vh;
+  padding: 30px;
+}
+
+.heading {
+  font-family: Open Sans;
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.paragraph {
+  font-family: Open Sans;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.small-label {
+  font-family: Open Sans;
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.paragraph-error {
+  font-family: Open Sans;
+  font-size: 11px;
+  color: #f5f7fa;
+}
+
+.result-bg {
+  text-align: center;
+  height: 47px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.paragraph-element {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: #f5f7fa;
+}
+
+.input-size {
+  height: 45px;
+  width: 270px;
+  border-radius: 10px;
+}
